@@ -1,0 +1,20 @@
+[10-10-2024 17:37:58] Failed to execute adb tcpip command
+[10-10-2024 18:19:38] Invalid IP address format entered
+[10-10-2024 18:28:57] Invalid input received
+[10-10-2024 18:33:51] Failed to launch scrcpy
+[10-10-2024 18:34:05] Failed to launch scrcpy
+[10-10-2024 18:35:12] Failed to launch scrcpy
+[10-10-2024 18:35:48] Failed to execute adb tcpip command
+[10-10-2024 18:36:11] Failed to execute adb tcpip command
+[10-10-2024 18:36:32] Failed to execute adb tcpip command
+[10-10-2024 18:36:50] Failed to execute adb tcpip command
+[10-10-2024 18:37:08] Failed to execute adb tcpip command
+[10-10-2024 18:37:24] Failed to launch scrcpy
+[10-10-2024 18:37:35] Failed to launch scrcpy
+[10-10-2024 18:37:42] Failed to execute adb tcpip command
+[10-10-2024 18:39:05] Failed to launch scrcpy
+[10-10-2024 18:40:05] Failed to launch scrcpy
+[10-10-2024 18:41:16] Failed to launch scrcpy
+[10-10-2024 18:42:01] Failed to launch scrcpy
+[10-10-2024 18:43:15] Failed to launch scrcpy
+[10-10-2024 18:51:04] Failed to launch scrcpy
