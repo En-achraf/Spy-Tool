@@ -15,11 +15,9 @@ Features
 
 Requirements
 
-To use Spy Tool, you need the following:
-
-    Windows operating system.
-    ADB (Android Debug Bridge): Ensure adb is properly installed and available in the project directory (android/adb.exe).
-    Scrcpy: Download and install scrcpy from Genymobile/scrcpy. Make sure it is in your system path or project directory.
+    Windows Operating System
+    Preconfigured ADB: The adb.exe should be available in the android/ folder inside the project directory.
+    Preconfigured Scrcpy: Scrcpy should also be available and accessible from the project directory.
 
 How to Install
 
@@ -28,13 +26,6 @@ How to Install
     bash
 
 git clone https://github.com/acennadi/spy-tool.git
-
-Ensure that adb.exe is placed in the android/ folder inside the project directory.
-
-Install scrcpy on your system:
-
-    Download it from Genymobile/scrcpy.
-    Extract and add the folder to your system's PATH or copy scrcpy binaries into the project folder.
 
 Compile the project:
 
@@ -120,7 +111,6 @@ arduino
 Troubleshooting
 
     If you encounter issues during connection or launching scrcpy, check the error_log.txt file for details.
-    Ensure that adb and scrcpy are correctly installed and available in your system's PATH or the project directory.
 
 Contributing
 
