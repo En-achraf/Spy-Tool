@@ -1,9 +1,9 @@
-## Spy Tool - Android Device Control and Screen Mirroring
+# Spy Tool - Android Device Control and Screen Mirroring
 
 Version: 1.0
 Developer: acennadi
 
-# Spy Tool is a command-line utility designed for controlling and mirroring Android devices over a TCP/IP connection using adb and scrcpy. The tool allows users to connect, save device information, and launch screen mirroring with ease.
+## Spy Tool is a command-line utility designed for controlling and mirroring Android devices over a TCP/IP connection using adb and scrcpy. The tool allows users to connect, save device information, and launch screen mirroring with ease.
 Features
 
    - Connect to Android devices via Wi-Fi using IP addresses.
