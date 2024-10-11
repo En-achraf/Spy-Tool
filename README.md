@@ -1,23 +1,23 @@
-Spy Tool - Android Device Control and Screen Mirroring
+## Spy Tool - Android Device Control and Screen Mirroring
 
 Version: 1.0
 Developer: acennadi
 
-Spy Tool is a command-line utility designed for controlling and mirroring Android devices over a TCP/IP connection using adb and scrcpy. The tool allows users to connect, save device information, and launch screen mirroring with ease.
+# Spy Tool is a command-line utility designed for controlling and mirroring Android devices over a TCP/IP connection using adb and scrcpy. The tool allows users to connect, save device information, and launch screen mirroring with ease.
 Features
 
-    Connect to Android devices via Wi-Fi using IP addresses.
-    Change Android device connection ports using adb tcpip.
-    Save device IP addresses for future quick connections.
-    List and manage multiple saved devices.
-    Automatically launch screen mirroring using scrcpy.
-    Logs connection errors and command failures to an error log for troubleshooting.
+   - Connect to Android devices via Wi-Fi using IP addresses.
+   - Change Android device connection ports using adb tcpip.
+   - Save device IP addresses for future quick connections.
+   - List and manage multiple saved devices.
+   - Automatically launch screen mirroring using scrcpy.
+   - Logs connection errors and command failures to an error log for troubleshooting.
 
 Requirements
 
-    Windows Operating System
-    Preconfigured ADB: The adb.exe should be available in the android/ folder inside the project directory.
-    Preconfigured Scrcpy: Scrcpy should also be available and accessible from the project directory.
+- Windows Operating System
+- Preconfigured ADB: The adb.exe should be available in the android/ folder inside the project directory.
+- Preconfigured Scrcpy: Scrcpy should also be available and accessible from the project directory.
 
 How to Install
 
@@ -25,7 +25,7 @@ How to Install
 
     bash
 
-git clone https://github.com/acennadi/spy-tool.git
+https://github.com/En-achraf/Spy-Tool.git
 
 Compile the project:
 
