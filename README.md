@@ -21,9 +21,7 @@ Requirements
 
 How to Install
 
-    Clone this repository or download the project files:
-
-    bash
+   Clone this repository or download the project files:
 
 https://github.com/En-achraf/Spy-Tool.git
 
